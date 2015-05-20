@@ -1,12 +1,11 @@
 === Entertainment News ===
-Contributors: <a href="http://gloomwire.com">Odd News</a>
-Donate link:
-Tags:
+Contributors: gloomwire.com, onefoldmedia.com
+Tags: news, stories, feed, rss, entertainment, strange, fun
 License: GPLv3
 License URI: http://www.gnu.org/licenses/gpl-3.0.html
 Requires at least: 3.5
-Tested up to: 3.5
-Stable tag: 0.1
+Tested up to: 4.2.2
+Stable tag: 1.2
 
 Need content? The Entertainment News plugin will display unique articles for your site.
 
