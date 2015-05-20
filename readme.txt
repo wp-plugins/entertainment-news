@@ -44,7 +44,7 @@ There's a great tutorial here, http://dougal.gunters.org/blog/2006/07/21/using-t
 
 == Screenshots ==
 
-![alt tag](http://s9.postimg.org/hj1n3hmhb/screenshot.jpg)
+1. example of full article shortcode on the right and the widget in the menu on the left.
 
 == Changelog ==
 
